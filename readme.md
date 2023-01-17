@@ -10,7 +10,6 @@ a submission for Summative Assessment 2 - ITCS111/LA
 
 ### GROUP MEMBERS / TASKS:
 
----
 
 Rodriguez, Rovic **(Leader)**
  - Front-end & Back-end Developer (HTML, CSS, Github Maintenance, Netlify Deployment, etc.)
